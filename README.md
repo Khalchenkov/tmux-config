@@ -1,4 +1,5 @@
-# Tmux setup
+<h1 align="center">Tmux setup</h1>
+
 Base Tmux setup
 - [tmux](https://github.com/gpakosz/.tmux)
 
