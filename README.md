@@ -3,4 +3,4 @@
 Base Tmux setup
 - [base](https://github.com/gpakosz/.tmux)
 
-### But I change .tmux.conf.local
+But I change .tmux.conf.local to my file .tmux.conf.local
