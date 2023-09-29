@@ -6,6 +6,7 @@ Base Tmux setup
 But I change .tmux.conf.local to my .tmux.conf.local
 
 ## My other setup
+----------
 Terminal setup
 - [Terminal setup](https://github.com/Khalchenkov/terminal-setup)
 
@@ -18,4 +19,3 @@ Vim setup
 Neofetch setup
 - [Neofetch setup](https://github.com/Khalchenkov/neofetch-config)
 
-----------
