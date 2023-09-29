@@ -18,3 +18,4 @@ Vim setup
 Neofetch setup
 - [Neofetch setup](https://github.com/Khalchenkov/neofetch-config)
 
+----------
