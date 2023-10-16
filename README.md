@@ -1,9 +1,10 @@
 <h1 align="center">Tmux setup</h1>
 
-Base Tmux setup
-- [tmux](https://github.com/gpakosz/.tmux)
+## Tmux plugin manager
 
-But I change .tmux.conf.local to my .tmux.conf.local
+[Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+
+After, put file `tmux.conf` to ~/.config/tmux/
 
 ## My other setup
 Terminal setup
