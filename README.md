@@ -4,7 +4,11 @@
 
 [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 
-After, put file `tmux.conf` to ~/.config/tmux/
+After, put file `tmux.conf` to ~/.config/tmux/ and install
+
+```bash
+apt install xclip
+```
 
 ## My other setup
 Terminal setup
