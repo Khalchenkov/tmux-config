@@ -23,3 +23,5 @@ Vim setup
 Neofetch setup
 - [Neofetch setup](https://github.com/Khalchenkov/neofetch-config)
 
+VS Code setup
+- [VS Code setup](https://github.com/Khalchenkov/vscode-setup/tree/main)
